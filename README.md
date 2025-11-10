@@ -1,4 +1,4 @@
-# strut-issue-draft-1
+# strut-issue-draft-2
   struct Issue {
         EnumerableSet.AddressSet voters;
         string issueDesc;
